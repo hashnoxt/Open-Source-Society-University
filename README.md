@@ -27,12 +27,12 @@ The OSSU curriculum is a **complete education in computer science** using online
 It's not merely for career training or professional development.
 It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
 and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
+but with support from a worldwide community of fellow learners. **[`DONE`]**
 
 It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements,
 as it is assumed most of the people following this curriculum are already educated outside the field of CS.
 The courses themselves are among the very best in the world, often coming from Harvard, Princeton, MIT, etc.,
-but specifically chosen to meet the following criteria.
+but specifically chosen to meet the following criteria. **[`DONE`]**
 
 **Courses must**:
 - Be open for enrollment
@@ -42,7 +42,7 @@ but specifically chosen to meet the following criteria.
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md). **[`DONE`]**
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
