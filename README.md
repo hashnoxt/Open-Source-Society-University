@@ -42,7 +42,7 @@ but specifically chosen to meet the following criteria. **[`DONE`]**
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md). **[`DONE`]**
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
