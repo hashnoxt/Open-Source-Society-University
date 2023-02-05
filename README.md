@@ -50,6 +50,8 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 - *Advanced CS*: corresponds roughly to the final year of a computer science curriculum, taking electives according to the student's interests
 - *Final Project*: a project for students to validate, consolidate, and display their knowledge, to be evaluated by their peers worldwide
 
+**[`DONE`]**
+
 **Duration**. It is possible to finish within about 2 years if you plan carefully and devote roughly 20 hours/week to your studies. Learners can use [this spreadsheet
 ](https://docs.google.com/spreadsheets/d/1bkUU90y4rKYQHwY5AR2iX6iiPTrPEsYs75GkCAkrgm4/copy) to estimate their end date. Make a copy and input your start date and expected hours per week in the `Timeline` sheet. As you work through courses you can enter your actual course completion dates in the `Curriculum Data` sheet and get updated completion estimates.
 
