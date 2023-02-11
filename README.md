@@ -71,7 +71,7 @@ just remember that you can't purchase success!
 
 **[How to contribute](CONTRIBUTING.md)**
 
-**[Getting help](HELP.md)** (Details about our FAQ and chatroom)
+**[Getting help](HELP.md)** (Details about our FAQ and chatroom) **[`DONE`]**
 
 # Community
 
@@ -79,7 +79,7 @@ just remember that you can't purchase success!
 - You can also interact through GitHub issues. If there is a problem with a course, or a change needs to be made to the curriculum, this is the place to start the conversation. Read more [here](CONTRIBUTING.md).
 - Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity).
 - Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) profile!
-- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken).
+- Note: There is an unmaintained and deprecated firebase app that you might find when searching OSSU. You can safely ignore it. Read more in the [FAQ](./FAQ.md#why-is-the-firebase-ossu-app-different-or-broken). **[`DONE`]**
 
 # Curriculum
 
